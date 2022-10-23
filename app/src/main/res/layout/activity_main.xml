@@ -9,30 +9,28 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical">
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="250dp"
-        android:orientation="vertical"
-        android:background="@drawable/main_bg"
-        tools:ignore="UselessParent">
-
-        <TextView
+        <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_centerVertical="true"
-            android:layout_marginHorizontal="5dp"
-            android:gravity="center"
-            android:text="@string/health_news_app_the_best_app_for_your_health"
-            android:textColor="@color/white"
-            android:textStyle="bold"
-            android:lineHeight="45dp"
-            android:textSize="35sp" />
-
-    </RelativeLayout>
+            android:layout_height="250dp"
+            android:orientation="vertical"
+            android:background="@drawable/main_bg"
+            tools:ignore="UselessParent">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginHorizontal="5dp"
+                android:gravity="center"
+                android:text="@string/main_title"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:lineHeight="45dp"
+                android:textSize="35sp" />
+        </RelativeLayout>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#fafafa"
+            android:background="#F3F3F3"
             android:orientation="vertical">
             <TableRow
                 android:layout_width="match_parent"

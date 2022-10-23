@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Health News</string>
+    <string name="health_news_app_the_best_app_for_your_health">Health News App the best app for your health</string>
+    <string name="world_news">World News</string>
+    <string name="text_description">Getting the latest news from around the world</string>
+    <string name="text_description_2">The Difference Between a Cold and the Flu</string>
+    <string name="local_news">Local News</string>
+    <string name="text_description_3">How Virus Spreads and How to Protect Yourself</string>
+    <string name="text_description_4">Skip Cancer Screening? You Could Pay the Price</string>
+</resources>
